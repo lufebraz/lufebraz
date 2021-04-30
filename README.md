@@ -17,8 +17,8 @@
 <img height="35" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="35" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"> &nbsp;
 <img height="35" alt="Typesrcipt" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img height="35" alt="SCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;
-<img height="35" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
+[<img height="35" alt="SCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">](https://sass-lang.com/)
+[<img height="35" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org/en/)
 
 <hr>
 
