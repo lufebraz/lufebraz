@@ -2,7 +2,7 @@
 
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
-##### 💻 I’m currently studying software development!! 💻<br>
+##### 💻 I’m currently in a Java Developer Position!! 💻<br>
 
 #### Languages and Tools: <br>
 [<img height="35" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">](https://www.w3.org/TR/html52/) 
