@@ -5,13 +5,15 @@
 ##### 💻 I’m currently in a Java Developer Position!! 💻<br>
 
 #### Languages and Tools: <br>
+
+[<img height="35" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](https://www.java.com/en/)
+[<img height="35" alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">](https://spring.io/)
+[<img height="35" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />](https://www.oracle.com/br/)
 [<img height="35" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">](https://www.w3.org/TR/html52/) 
 [<img height="35" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">](https://www.w3.org/Style/CSS/Overview.en.html) 
 [<img height="35" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://www.javascript.com/)
-[<img height="35" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](https://www.java.com/en/)
-[<img height="35" alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">](https://spring.io/)
 
-<img height="35" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+
 
 #### Improving: <br>
 [<img height="35" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/)
